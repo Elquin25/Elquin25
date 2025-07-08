@@ -1,7 +1,7 @@
 # 👨‍💻 Hola, soy ElquinDev (Elquin Leguizamón Vega)
 
 <p align="left">
-  <a href="https://linkedin.com/in/unsimpledev" target="blank">
+  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
