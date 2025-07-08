@@ -43,32 +43,7 @@
 <table>
 <tr>
 <td width="60%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</td>
-<td width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
+  <img src="https://github-read
 
-📊 Las estadísticas muestran mi constancia, los lenguajes más utilizados y la pasión que pongo en cada commit.
-
----
-
-## 🏆 Reconocimientos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📬 ¡Hablemos!
-
-¿Quieres colaborar en un proyecto, tienes alguna idea o simplemente deseas conversar sobre tecnología?
-
-📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://linkedin.com/in/unsimpledev)
-
----
 
 
