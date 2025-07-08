@@ -2,58 +2,72 @@
 
 <img src="https://github.com/Elquin25/Elquin25/blob/main/1.png" alt="Banner ElquinDev" style="width:100%; border-radius: 10px;" />
 
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="mailto:elkiin25@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Correo%20Directo-elkiin25@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-  <a href="mailto:elkiin25@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Elquin%20Leguizamón-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Elquin25/Elquin25/raw/main/CV_Elquin_Leguizamon.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-00c853?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV ElquinDev"/>
   </a>
 </p>
 
 ---
 
-
 ## 🧠 Sobre mí
 
-🎓 Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y con conocimientos en desarrollo Full Stack.
+🎓 Estudiante de Ingeniería de Sistemas apasionado por el desarrollo **Full Stack** y el diseño de experiencias centradas en el usuario (**UX/UI**).
 
-💻 Tengo experiencia brindando soporte a usuarios, solución de incidencias, mantenimiento de sistemas y acompañamiento técnico en entornos reales.  
-Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario (UX) e interfaces atractivas e intuitivas (UI).
+💻 Cuento con experiencia en:
+- Soporte técnico a usuarios
+- Mantenimiento y configuración de sistemas
+- Desarrollo web con enfoque en **interfaces modernas, accesibles e intuitivas**
+- Uso de metodologías ágiles como **SCRUM**
 
-
-🚀 Estoy en constante formación para crecer profesionalmente y expandirme al desarrollo de software, combinando mi experiencia en soporte con nuevas habilidades técnicas.
+🚀 Me capacito constantemente para integrar nuevas tecnologías a mis proyectos, combinando diseño y funcionalidad.
 
 📫 **Contacto directo**: elkiin25@gmail.com
 
 ---
 
-## 💡 Tecnologías y herramientas que uso
+## 💡 Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,html,css,react,mysql,mongodb,github&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql,mongodb,github&perline=9" />
 </p>
-*(Basado en experiencia práctica, no solo en repos públicos)*
 
-🧩 Metodologías: SCRUM
+---
+
+## 🎨 Enfoque UX/UI
+
+🔹 Interfaces limpias, adaptables y centradas en el usuario  
+🔹 Aplicación de principios de usabilidad y accesibilidad  
+🔹 Prototipado con herramientas como **Figma**  
+🔹 Optimización visual y funcional de formularios, paneles y dashboards
 
 ---
 
 ## 📈 GitHub Stats
 
-✨ **Mi actividad reciente como desarrollador**
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elquin25&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-
+---
 
 ## 📬 ¡Hablemos!
 
-¿Quieres colaborar en un proyecto, tienes alguna idea o simplemente deseas conversar sobre tecnología?
+¿Quieres colaborar, tienes una idea o deseas conversar sobre tecnología?
 
-📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://www.linkedin.com/in/elquin-l-222802139)
+<p align="center">
+  <a href="mailto:elkiin25@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20ElquinDev%2C%20me%20interesa%20colaborar...">
+    <img src="https://img.shields.io/badge/📨%20Enviar%20Correo-ff7043?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
