@@ -5,13 +5,10 @@
 ---
 
 <p align="center">
-  <a href="mailto:elkiin25@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Correo%20Directo-elkiin25@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Elquin%20Leguizamón-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Elquin25/Elquin25/raw/main/CV_Elquin_Leguizamon.pdf" download>
+  <a href="https://github.com/Elquin25/Elquin25/raw/main/CV_Elquin_Leguizamon.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Descargar%20CV-00c853?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV ElquinDev"/>
   </a>
 </p>
@@ -40,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql,mongodb,github&perline=9" />
 </p>
 
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -59,7 +54,3 @@
     <img src="https://img.shields.io/badge/📨%20Enviar%20Correo-ff7043?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-
