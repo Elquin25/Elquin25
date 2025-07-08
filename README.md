@@ -50,13 +50,6 @@ Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario
 📊 **Lenguajes y tecnologías que manejo actualmente:**  
 *(Basado en experiencia práctica, no solo en repos públicos)*
 
-- 🐍 **Python** → 50%  
-- 🌐 **HTML5** → 40%  
-- 🎨 **CSS** → 45%  
-- 💾 **MySQL Server** → 40%  
-- 🧱 **C#** → 20%  
-- 🧰 **.NET** → 20%  
-- 🖥 **PHP / React / MongoDB** → Uso intermedio según necesidades del proyecto
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,html,css,php,react,mysql,mongodb,dotnet,cs&perline=6" />
