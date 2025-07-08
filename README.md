@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Elquin25/Elquin25/main/1.png" alt="Banner ElquinDev" style="width:100%; border-radius: 10px;" />
 
 # 👨‍💻 Hola, soy ElquinDev (Elquin Leguizamón Vega)
 
