@@ -1,41 +1,3 @@
-# 👨‍💻 Hola, soy ElquinDev (Elquin Leguizamón Vega)
-
-<p align="left">
-  <a href="https://linkedin.com/in/unsimpledev" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:elkiin25@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-## 🧠 Sobre mí
-
-🎓 Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología.
-
-💻 Tengo varios años de experiencia práctica desarrollando proyectos personales, freelance y colaborativos, tanto en frontend como backend.
-
-🎥 Me gusta compartir conocimientos a través de redes sociales y YouTube, creando contenido educativo basado en la experiencia y el aprendizaje constante.
-
-🚀 He trabajado en diferentes roles: programador, emprendedor, líder de ideas, creador de contenido... ¡y lo que venga en el camino!
-
-📫 **Contacto directo**: elkiin25@gmail.com
-
----
-
-## 💡 Tecnologías y herramientas que uso
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,html,css,react,mysql,mongodb,github&perline=8" />
-</p>
-
-🧩 Metodologías: SCRUM
-
----
-
 ## 📈 GitHub Stats
 
 ✨ **Mi actividad reciente como desarrollador**
@@ -46,27 +8,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </td>
 <td width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
-📊 Las estadísticas muestran mi constancia, los lenguajes más utilizados y la pasión que pongo en cada commit.
+---
+
+📊 **Lenguajes y tecnologías que manejo actualmente:**
+
+- 🐍 Python → **50%**
+- 🌐 HTML5 → **40%**
+- 🎨 CSS3 → **45%**
+- 💾 MySQL Server → **40%**
+- 🧱 C# → **20%**
+- 🧰 .NET → **20%**
+
+> 🔍 Estas cifras reflejan mi experiencia práctica en proyectos reales (personales, académicos y freelance), no solo mis repos públicos en GitHub.
 
 ---
 
-## 🏆 Reconocimientos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📬 ¡Hablemos!
-
-¿Quieres colaborar en un proyecto, tienes alguna idea o simplemente deseas conversar sobre tecnología?
-
-📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://linkedin.com/in/unsimpledev)
-
----
