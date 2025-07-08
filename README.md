@@ -29,76 +29,10 @@
 ## 💡 Tecnologías y herramientas que uso
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,py,java,php,cs,dotnet,nodejs,mysql,firebase,sqlite,docker,git,github,postman,linux,vscode,eclipse,androidstudio,bash,ai,ps&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,react,mysql,mongodb,github&perline=8" />
 </p>
 
----
-
-## 📦 Algunos proyectos destacados
-
-<table align="left">
-<tr>
-  <td width="25%" align="center">
-    <a href="https://youtu.be/rISmdhlhOPM">
-      <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="SMS Gateway" />
-    </a>
-    <p>
-      <a href="https://youtu.be/rISmdhlhOPM">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-  </td>
-
-  <td width="25%" align="center">
-    <a href="https://youtu.be/fiUkA2OZQjs">
-      <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="Notificaciones Android" />
-    </a>
-    <p>
-      <a href="https://youtu.be/fiUkA2OZQjs">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-  </td>
-
-  <td width="25%" align="center">
-    <a href="https://youtu.be/py31Y1Ku4Es">
-      <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="App ChatGPT" />
-    </a>
-    <p>
-      <a href="https://youtu.be/py31Y1Ku4Es">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/unsimpledev/MiChatGPT">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-  </td>
-
-  <td width="25%" align="center">
-    <a href="https://youtu.be/FbQtooM3UIs">
-      <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="Traductor ChatGPT" />
-    </a>
-    <p>
-      <a href="https://youtu.be/FbQtooM3UIs">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/unsimpledev/MiTraductor">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-  </td>
-</tr>
-</table>
-
-<br><br><br><br><br><br><br><br><br><br>
+🧩 Metodologías: SCRUM
 
 ---
 
@@ -132,5 +66,6 @@
 📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://linkedin.com/in/unsimpledev)
 
 ---
+
 
 
