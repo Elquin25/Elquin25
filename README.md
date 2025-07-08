@@ -43,18 +43,24 @@ Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario
 
 ✨ **Mi actividad reciente como desarrollador**
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</td>
-<td width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
+</p>
 
-📊 Las estadísticas muestran mi constancia, los lenguajes más utilizados y la pasión que pongo en cada commit.
+📊 **Lenguajes y tecnologías que manejo actualmente:**  
+*(Basado en experiencia práctica, no solo en repos públicos)*
+
+- 🐍 **Python** → 50%  
+- 🌐 **HTML5** → 40%  
+- 🎨 **CSS** → 45%  
+- 💾 **MySQL Server** → 40%  
+- 🧱 **C#** → 20%  
+- 🧰 **.NET** → 20%  
+- 🖥 **PHP / React / MongoDB** → Uso intermedio según necesidades del proyecto
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,html,css,php,react,mysql,mongodb,dotnet,cs&perline=6" />
+</p>
 
 
 ---
