@@ -24,8 +24,6 @@
 Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario (UX) e interfaces atractivas e intuitivas (UI).
 
 
-🎥 Me gusta aprender de forma continua y compartir lo que voy adquiriendo a través de redes sociales y contenido educativo.
-
 🚀 Estoy en constante formación para crecer profesionalmente y expandirme al desarrollo de software, combinando mi experiencia en soporte con nuevas habilidades técnicas.
 
 📫 **Contacto directo**: elkiin25@gmail.com
