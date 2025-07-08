@@ -66,4 +66,29 @@ Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario
 
 ---
 
+## 📱 Conecta conmigo
+
+<p align="center">
+
+<a href="mailto:aris.guimera@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://aristi.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Web-aristi.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
+</a>
+
+<a href="https://twitter.com/aristidevs" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<a href="https://t.me/aristidevs" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="https://github.com/aristidevs" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
 
