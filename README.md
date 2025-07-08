@@ -38,23 +38,27 @@
 
 ## 📈 GitHub Stats
 
+✨ **Mi actividad reciente como desarrollador**
+
 <table>
 <tr>
 <td width="60%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </td>
 <td width="40%">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
+
+📊 Las estadísticas muestran mi constancia, los lenguajes más utilizados y la pasión que pongo en cada commit.
 
 ---
 
 ## 🏆 Reconocimientos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
