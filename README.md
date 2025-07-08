@@ -37,6 +37,7 @@ Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,py,html,css,react,mysql,mongodb,github&perline=8" />
 </p>
+*(Basado en experiencia práctica, no solo en repos públicos)*
 
 🧩 Metodologías: SCRUM
 
@@ -50,16 +51,7 @@ Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-📊 **Lenguajes y tecnologías que manejo actualmente:**  
-*(Basado en experiencia práctica, no solo en repos públicos)*
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,html,css,php,react,mysql,mongodb,dotnet,cs&perline=6" />
-</p>
-
-
----
 
 ## 📬 ¡Hablemos!
 
