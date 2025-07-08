@@ -66,6 +66,3 @@
 📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://linkedin.com/in/unsimpledev)
 
 ---
-
-
-
