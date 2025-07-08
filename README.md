@@ -12,15 +12,18 @@
 
 ---
 
+
 ## 🧠 Sobre mí
 
-🎓 Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología.
+🎓 Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y con conocimientos en desarrollo Full Stack.
 
-💻 Tengo varios años de experiencia práctica desarrollando proyectos personales, freelance y colaborativos, tanto en frontend como backend.
+💻 Tengo experiencia brindando soporte a usuarios, solución de incidencias, mantenimiento de sistemas y acompañamiento técnico en entornos reales.  
+Además, he trabajado en el desarrollo web con enfoque en experiencia de usuario (UX) e interfaces atractivas e intuitivas (UI).
 
-🎥 Me gusta compartir conocimientos a través de redes sociales y YouTube, creando contenido educativo basado en la experiencia y el aprendizaje constante.
 
-🚀 He trabajado en diferentes roles: programador, emprendedor, líder de ideas, creador de contenido... ¡y lo que venga en el camino!
+🎥 Me gusta aprender de forma continua y compartir lo que voy adquiriendo a través de redes sociales y contenido educativo.
+
+🚀 Estoy en constante formación para crecer profesionalmente y expandirme al desarrollo de software, combinando mi experiencia en soporte con nuevas habilidades técnicas.
 
 📫 **Contacto directo**: elkiin25@gmail.com
 
@@ -53,13 +56,6 @@
 
 📊 Las estadísticas muestran mi constancia, los lenguajes más utilizados y la pasión que pongo en cada commit.
 
----
-
-## 🏆 Reconocimientos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -67,7 +63,7 @@
 
 ¿Quieres colaborar en un proyecto, tienes alguna idea o simplemente deseas conversar sobre tecnología?
 
-📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://linkedin.com/in/unsimpledev)
+📫 Escríbeme a **elkiin25@gmail.com** o conéctate en [LinkedIn](https://www.linkedin.com/in/elquin-l-222802139)
 
 ---
 
