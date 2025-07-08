@@ -1,17 +1,3 @@
-<p align="left">
-
-🌍 Canarias/Madrid  
-✉️ [aris.guimera@gmail.com](mailto:aris.guimera@gmail.com)  
-🌐 [https://aristi.dev](https://aristi.dev)  
-🐦 [@AristiDevs (Twitter/X)](https://twitter.com/AristiDevs)  
-📺 [YouTube: @aristidevs](https://www.youtube.com/@aristidevs)  
-📷 [Instagram: aristidevs](https://instagram.com/aristidevs)  
-💼 [LinkedIn: aristidevs](https://linkedin.com/in/aristidevs)  
-👨‍💻 [GitHub: aristidevs](https://github.com/aristidevs)  
-
-</p>
-
-
 
 # 👨‍💻 Hola, soy ElquinDev (Elquin Leguizamón Vega)
 
