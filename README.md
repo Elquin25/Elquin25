@@ -25,17 +25,14 @@
 
 ## 🧠 Sobre mí
 
-🎓 Estudiante de Ingeniería de Sistemas apasionado por el desarrollo **Full Stack** y el diseño de experiencias centradas en el usuario (**UX/UI**).
+🎓 Estudiante de Ingeniería de Sistemas (8.º semestre) con experiencia práctica como **desarrollador Full Stack** usando **Python/Django**, **PHP/Laravel**, **React** y bases de datos SQL/NoSQL.
 
-💻 Cuento con experiencia en:
-- Soporte técnico a usuarios
-- Mantenimiento y configuración de sistemas
-- Desarrollo web con enfoque en **interfaces modernas, accesibles e intuitivas**
-- Uso de metodologías ágiles como **SCRUM**
+🚀 He liderado proyectos que automatizan procesos, mejoran tiempos de entrega y optimizan flujos de facturación, aplicando metodologías ágiles como **SCRUM** y control de versiones con **Git**.
 
-🚀 Me capacito constantemente para integrar nuevas tecnologías a mis proyectos, combinando diseño y funcionalidad.
+💡 Apasionado por crear soluciones tecnológicas eficientes, escalables y centradas en el usuario. Siempre en constante aprendizaje.
 
-📫 **Correo**: elkiin25@gmail.com
+📫 elkiin25@gmail.com
+
 
 ---
 
