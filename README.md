@@ -39,10 +39,12 @@
 ## 💡 Tecnologías y herramientas
 
 
+
 <p align="center">
-  <img src="https://github.com/Elquin25/Elquin25/blob/main/tecnologias_animado.gif?raw=true" alt="Tecnologías animadas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql,mongodb,github&perline=9" />
 </p>
 
+---
 
 ---
 
