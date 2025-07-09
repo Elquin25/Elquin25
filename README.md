@@ -5,6 +5,11 @@
 ---
 
 <p align="center">
+  <!-- Botón de LinkedIn -->
+  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Perfil%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <!-- Botón para ver CV en Google Docs -->
   <a href="https://docs.google.com/viewer?url=https://github.com/Elquin25/Elquin25/raw/main/CV_Elquin_Leguizamon_V-1.docx" target="_blank">
     <img src="https://img.shields.io/badge/👁️%20Ver%20CV%20en%20línea-1976D2?style=for-the-badge&logo=google&logoColor=white" alt="Ver CV en Google Docs"/>
