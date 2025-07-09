@@ -7,6 +7,7 @@
 <p align="center">
   <!-- Botón de LinkedIn -->
   <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Botón para ver CV en Google Docs -->
