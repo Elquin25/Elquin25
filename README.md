@@ -38,11 +38,101 @@
 
 ## 💡 Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql,mongodb,github&perline=9" />
-</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tecnologías y herramientas</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      padding: 40px 20px;
+      text-align: center;
+    }
 
----
+    h2 {
+      color: #2c3e50;
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    .icon-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      margin-top: 20px;
+    }
+
+    .icon {
+      width: 70px;
+      transition: transform 0.3s ease, filter 0.3s ease;
+      cursor: pointer;
+    }
+
+    .icon:hover {
+      transform: scale(1.2) rotate(5deg);
+      filter: drop-shadow(0 0 10px #8ed851);
+    }
+
+    .icon-label {
+      font-size: 0.85em;
+      margin-top: 5px;
+      color: #555;
+    }
+
+    .icon-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <h2>💡 Tecnologías y herramientas</h2>
+  <div class="icon-grid">
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="icon" alt="HTML" />
+      <span class="icon-label">HTML</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="icon" alt="CSS" />
+      <span class="icon-label">CSS</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="icon" alt="JavaScript" />
+      <span class="icon-label">JavaScript</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="icon" alt="React" />
+      <span class="icon-label">React</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" class="icon" alt="PHP" />
+      <span class="icon-label">PHP</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon" alt="Python" />
+      <span class="icon-label">Python</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" class="icon" alt="MySQL" />
+      <span class="icon-label">MySQL</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" class="icon" alt="MongoDB" />
+      <span class="icon-label">MongoDB</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" class="icon" alt="GitHub" />
+      <span class="icon-label">GitHub</span>
+    </div>
+  </div>
+</body>
+</html>
+
 
 ## 📈 GitHub Stats
 
