@@ -5,14 +5,14 @@
 ---
 
 <p align="center">
-  <!-- Botón de LinkedIn -->
-  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elquin%20Leguizamón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:elkiin25@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Correo%20Directo-elkiin25@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-  <!-- Botón para descargar CV -->
+  <a href="https://www.linkedin.com/in/elquin-l-222802139" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Elquin%20Leguizamón-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/Elquin25/Elquin25/raw/main/CV_Elquin_Leguizamon.pdf" download>
-    <img src="https://img.shields.io/badge/📄 Descargar%20CV-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
+    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-00c853?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV ElquinDev"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 🚀 Me capacito constantemente para integrar nuevas tecnologías a mis proyectos, combinando diseño y funcionalidad.
 
-📫 **Correo**: elkiin25@gmail.com
+📫 **Contacto directo**: elkiin25@gmail.com
 
 ---
 
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql,mongodb,github&perline=9" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -56,6 +56,8 @@
 
 <p align="center">
   <a href="mailto:elkiin25@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20ElquinDev%2C%20me%20interesa%20colaborar...">
-    <img src="https://img.shields.io/badge/📨%20Enviar%20Correo-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📨%20Enviar%20Correo-ff7043?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
