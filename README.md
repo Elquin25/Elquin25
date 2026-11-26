@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elquin-l-222802139)
 [![Correo](https://img.shields.io/badge/Correo-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkiin25@gmail.com)
-[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-2E7D32?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/Elquin25/Elquin25/raw/main/NOMBRE_DE_TU_CV.docx)
 
 ---
 
@@ -39,5 +38,7 @@ Aplicación individual con interfaz en React, backend en Python y base de datos 
 ---
 
 ## 📬 Contacto
+
+¿Tienes una oportunidad o quieres hablar de tecnología? Escríbeme a [elkiin25@gmail.com](mailto:elkiin25@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/elquin-l-222802139).
 
 ¿Tienes una oportunidad o quieres hablar de tecnología? Escríbeme a [elkiin25@gmail.com](mailto:elkiin25@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/elquin-l-222802139).
